@@ -15,9 +15,13 @@
 Config 配置解释
 
 Autoload 自动载入的文件 待完善
+
 Cache 缓存配置，使用过程中支持多缓存切换
+
 Config 基础全局配置
+
 Databases 数据库多实例配置 支持使用过程中切换数据库
+
 Projects 项目配置,主要配置项目基础信息
 
 数据库驱动目前采用的是 lessql ORM 驱动
